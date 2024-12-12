@@ -1,0 +1,1 @@
+This example demonstrates an uncommon error in VBScript related to comparing empty strings. VBScript's loose typing system can lead to unexpected results when dealing with string comparisons.  The solution offers a more robust way to handle empty string inputs.
